@@ -79,10 +79,11 @@
     </a>
 </p>
 
-<div align="center" style="margin-top: 40 px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpeshbonde&show_icons=true&locale=en&layout=compact" alt="kalpeshbonde" />
-</div>
+## 📈 GitHub Stats
 
-<div align="center" style="margin-top: 40 px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpeshbonde&show_icons=true&locale=en" alt="kalpeshbonde" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sejalsomani0504&theme=synthwave" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sejalsomani0504&theme=synthwave" />
 </div>
