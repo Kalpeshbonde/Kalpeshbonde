@@ -1,7 +1,11 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif)](https://i.pinimg.com/736x/1d/7a/6d/1d7a6d49608147c9ec5f354c354a6696.jpg))](https://github.com/Kalpeshbonde)
+[![MasterHead](https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif)](https://i.pinimg.com/736x/1d/7a/6d/1d7a6d49608147c9ec5f354c354a6696.jpg)
 
 <h1 align="center">Hi 👋, I'm Kalpesh</h1>
+
 <h3 align="center">
+    I am a full-stack Software Engineer. I love programming, reading, writing, and speaking. As a Software Engineer, I enjoy using my obsessive attention to detail and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+</h3>
+
     I am a full-stack Software Engineer. I love programming, reading, writing, and speaking. As a Software Engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 </h3>
 
