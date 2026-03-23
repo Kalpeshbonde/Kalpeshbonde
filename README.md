@@ -38,7 +38,6 @@ const kalpesh = {
   role       : "Software Development Engineer",
   location   : "📍 Chennai, India",
   email      : "kalpeshbonde04@gmail.com",
-  phone      : "+91 9975701656",
   stack      : ["Full-Stack", "Cloud & DevOps", "ML Integration", "System Design"],
   current    : "🔭 Building scalable platforms — MediBridge & AutoSense",
   experience : "💼 SDE Intern @ Lennox India Technology Centre",
@@ -237,42 +236,6 @@ const kalpesh = {
 
 <div align="center">
 
-## `❯_ cat achievements.log`
-
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center">🥇</td>
-    <td>
-      <strong>1st Place — Techknow 2023</strong><br/>
-      <sub>Built and demonstrated an Arduino-based real-time <strong>Weather Station</strong> with live environmental data monitoring, sensor integration, and serial data analysis</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">📄</td>
-    <td>
-      <strong>SCOPUS-Indexed Publication</strong><br/>
-      <sub>Springer LNNS · ITAI 2025 — ML-based fraud detection achieving 99.95% accuracy on 284K records</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">💼</td>
-    <td>
-      <strong>SDE Intern @ Lennox India Technology Centre</strong><br/>
-      <sub>Java · Spring Boot · SAP Hybris · Enterprise architecture in a professional production environment</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">🎓</td>
-    <td>
-      <strong>CGPA: 8.99 / 10</strong><br/>
-      <sub>B.Tech in Computer Science & Engineering — SRM Institute of Science and Technology</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
